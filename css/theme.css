@@ -1,0 +1,22 @@
+:root {
+  font-family: monospace;
+
+  --primary-background: #E6E7B6;
+  --primary-text: #8628C5;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+button {
+  background-color: #B6E7E1;
+  border: 2px solid #8A0F75;
+  font-weight: bold;
+
+  box-shadow: 4px 5px 0px 0px #8A0F75;
+}
+
+button:hover {
+  background-color: #74C7BD;
+}
